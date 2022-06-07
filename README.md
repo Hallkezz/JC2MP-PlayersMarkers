@@ -1,7 +1,5 @@
-# Players Markers
+# JC2MP-PlayersMarkers
 
 **Commands:**
-* ***/hideme*** - Hide you on Minimap.
-* ***/markers*** - Open Markers Settings.
-
-[www.jc-mp.com](https://www.jc-mp.com/forums/index.php/topic,6241.0.html)
+* ***/hideme*** - Hide you on minimap.
+* ***/markers*** - Open markers settings.
